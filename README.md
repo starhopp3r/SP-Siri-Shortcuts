@@ -4,6 +4,12 @@ With iOS 12 or later, Siri Shortcuts let you quickly do everyday tasks, and with
 
 For more help getting started with SP Siri Shortcuts, please refer to Apple's official [support page](https://support.apple.com/en-us/HT209055) for Siri Shortcuts.
 
+## Setup
+
+![Setup](https://raw.githubusercontent.com/nikhilraghava/SP-Siri-Shortcuts/master/res/setup.png)
+
+Some Shortcuts require authentication to work properly. To authenticate, edit the Shortcut and type out your SPICE username and password in the respective text fields.
+
 ## Features
 
 - Timetable listing for the day
